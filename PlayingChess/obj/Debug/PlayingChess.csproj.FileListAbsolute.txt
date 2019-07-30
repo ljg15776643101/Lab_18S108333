@@ -1,0 +1,6 @@
+c:\PlayingChess2\PlayingChess\PlayingChess\bin\Debug\PlayingChess.exe.config
+c:\PlayingChess2\PlayingChess\PlayingChess\bin\Debug\PlayingChess.exe
+c:\PlayingChess2\PlayingChess\PlayingChess\bin\Debug\PlayingChess.pdb
+c:\PlayingChess2\PlayingChess\PlayingChess\obj\Debug\PlayingChess.csprojResolveAssemblyReference.cache
+c:\PlayingChess2\PlayingChess\PlayingChess\obj\Debug\PlayingChess.exe
+c:\PlayingChess2\PlayingChess\PlayingChess\obj\Debug\PlayingChess.pdb
